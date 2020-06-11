@@ -24,7 +24,15 @@
                 "productType": "Mobile",
                 "brand": "Apple",
                 "price": 41500
-            }
+            },{
+               "id": 14,
+               "title": "Dell Inspiron 9000",
+               "modelName": "Inspiron",
+               "color": "DarkGray",
+               "productType": "Laptop",
+               "brand": "DELL",
+               "price": 89990
+             }
              
         ]
 }
