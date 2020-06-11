@@ -16,6 +16,15 @@
                 "productType": "Laptop",
                 "brand": "DELL",
                 "price": 59990
+            },{
+                "id": 13,
+                "title": "Apple iPhone X Max (Space Gray, 256 GB)",
+                "modelName": "iPhone X Max",
+                "color": "Space Gray",
+                "productType": "Mobile",
+                "brand": "Apple",
+                "price": 41500
             }
+             
         ]
 }
